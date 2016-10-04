@@ -1,0 +1,30 @@
+version: 1.0
+shards:
+  baked_file_system:
+    github: schovi/baked_file_system
+    commit: ed54e6e107f5994d3697f8832866160b19910bd6
+
+  kemal:
+    github: sdogruyol/kemal
+    commit: cf2144636d9d5cef9d8b3f7b3404b003cedb3760
+
+  kilt:
+    github: jeromegn/kilt
+    version: 0.3.3
+
+  pg:
+    github: will/crystal-pg
+    version: 0.9.1
+
+  pool:
+    github: ysbaddaden/pool
+    commit: c4ecfad1b87fbd8c6484d1fd536ccfd14c40cc94
+
+  racon:
+    github: askn/racon
+    commit: b039da6792f17f77d567e1a01931208d29ce4b27
+
+  radix:
+    github: luislavena/radix
+    version: 0.3.1
+
